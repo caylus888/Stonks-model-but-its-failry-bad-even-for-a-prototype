@@ -1,0 +1,2 @@
+# Stonks-model-but-its-failry-bad-even-for-a-prototype
+his project is my attempt at teaching a machine learning model to predict whether the stock market will go up or not. Sounds fancy, but let’s be real — right now the model is only getting about 54% accuracy. Which basically means it’s a very expensive coin toss. If you’re here for financial advice, I strongly suggest grabbing an actual coin instead
